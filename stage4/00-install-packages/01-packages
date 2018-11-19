@@ -2,6 +2,8 @@ python-automationhat
 python3-automationhat
 python-blinkt
 python3-blinkt
+python-buttonshim
+python3-buttonshim
 python-cap1xxx
 python3-cap1xxx
 python-drumhat
@@ -18,6 +20,8 @@ python-mote
 python3-mote
 python-motephat
 python3-motephat
+python-pantilthat
+python3-pantilthat
 python-phatbeat
 python3-phatbeat
 python-pianohat
@@ -30,15 +34,11 @@ python-scrollphat
 python3-scrollphat
 python-scrollphathd
 python3-scrollphathd
-python-sn3218
-python3-sn3218
 python-skywriter
 python3-skywriter
+python-sn3218
+python3-sn3218
 python-touchphat
 python3-touchphat
-python-buttonshim
-python3-buttonshim
 python-unicornhathd
 python3-unicornhathd
-python-pantilthat
-python3-pantilthat
