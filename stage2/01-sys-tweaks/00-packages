@@ -24,6 +24,7 @@ policykit-1
 psmisc
 raspberrypi-sys-mods
 rpi-update
+ruby
 ssh
 ssh-import-id
 strace
